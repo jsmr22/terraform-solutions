@@ -18,5 +18,5 @@ This project implements a high-availability environment using Google Cloud Run.
 
 ## 🐒 Author
 
-- **Javier Sainz Maza** - [javiersainzmaza@gmail.com](mailto:javiersainzmaza@gmail.com)
+- **Javier Sainz Maza** 
 
