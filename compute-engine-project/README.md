@@ -55,4 +55,4 @@ If you need to remove the infrastructure, destroy the resources, which will remo
 
 ## Author 🐒
 
-* javiersainzmaza@gmail.com
+* Javier Sainz Maza
