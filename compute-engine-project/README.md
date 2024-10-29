@@ -1,6 +1,6 @@
 # GCP Project with Terraform
 
-This Terraform project automates the creation of infrastructure based on the architecture diagram for your project on Google Cloud Platform (GCP).
+This Terraform project automates the creation of infrastructure based on the architecture diagram for your project on Google Cloud Platform.
 
 ## 📖 Getting Started
 
